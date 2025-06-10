@@ -6,10 +6,12 @@ Aplicativo em Excel para imposto de renda
 - controle seu imposto de renda anual
 - controle de notas
 - gráfico simples para visualização de receita
+- botões interativosbpata navegação 
 
 ## Instalação
 
 ```bash
+- Faca o download no link e abra no seu Excel ou abra diretamente no seu navegador para o Google sheets/office365
 
 https://github.com/willian094/Aplicativo-IR/blob/3a161512577debb2545a4148c9cb3d321d2e775f/APP%20IMPOSTO%20DE%20RENDA%20DIO.xlsx
 
