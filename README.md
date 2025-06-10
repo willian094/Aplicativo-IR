@@ -6,7 +6,7 @@ Aplicativo em Excel para imposto de renda
 - controle seu imposto de renda anual
 - controle de notas
 - gráfico simples para visualização de receita
-- botões interativosbpata navegação 
+- botões interativos para navegação 
 
 ## Instalação
 
