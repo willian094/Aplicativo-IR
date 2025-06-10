@@ -1,5 +1,5 @@
 # Aplicativo-IR
-Aplicativo em Excel para importo de renda
+Aplicativo em Excel para imposto de renda
 
 ## Funcionalidades
 
